@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PrimeNums",
+            "request": "launch",
+            "mainClass": "PrimeNums",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch computeE",
+            "request": "launch",
+            "mainClass": "computeE",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfSeries",
+            "request": "launch",
+            "mainClass": "SumOfSeries",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factors",
+            "request": "launch",
+            "mainClass": "Factors",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch Break",
+            "request": "launch",
+            "mainClass": "Break",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dec2Hex",
+            "request": "launch",
+            "mainClass": "Dec2Hex",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch Divisible",
+            "request": "launch",
+            "mainClass": "Divisible",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch FutureTuition",
+            "request": "launch",
+            "mainClass": "FutureTuition",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreatestCommonDivisor",
+            "request": "launch",
+            "mainClass": "GreatestCommonDivisor",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch GuessNumber",
+            "request": "launch",
+            "mainClass": "GuessNumber",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch GuessNumberOneTime",
+            "request": "launch",
+            "mainClass": "GuessNumberOneTime",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch HighestScore",
+            "request": "launch",
+            "mainClass": "HighestScore",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch Miles2KiloMeters",
+            "request": "launch",
+            "mainClass": "Miles2KiloMeters",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeatAdditionQuiz",
+            "request": "launch",
+            "mainClass": "RepeatAdditionQuiz",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch SentinelValue",
+            "request": "launch",
+            "mainClass": "SentinelValue",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallestN",
+            "request": "launch",
+            "mainClass": "SmallestN",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubtractionQuizLoop",
+            "request": "launch",
+            "mainClass": "SubtractionQuizLoop",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestContinue",
+            "request": "launch",
+            "mainClass": "TestContinue",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestDoWhile",
+            "request": "launch",
+            "mainClass": "TestDoWhile",
+            "projectName": "Lab03_26beb710"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestSum",
+            "request": "launch",
+            "mainClass": "TestSum",
+            "projectName": "Lab03_26beb710"
+        }
+    ]
+}
